@@ -3,6 +3,14 @@ comparisort
 
 Because comparison sorting shouldn't be that hard. Currently provides merge sorting and insertion sorting, which can be seen in [sort.R](R/sort.R).
 
+# Install
+
+For now, `devtools::install_github("cosmicexplorer/comparisort")`.
+
+# Documentation
+
+This is just a dump of the same info that's in the function documentation. Let me know if this is incomplete.
+
 ```
 merge_sort             package:comparisort             R Documentation
 
@@ -81,7 +89,6 @@ Examples:
      }))
      ## [1] "a"    "z"    "ww"   "bs"   "nwaw"
 ```
-
 
 # License
 [GPL 3.0+](LICENSE)
