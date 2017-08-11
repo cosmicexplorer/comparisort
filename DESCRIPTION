@@ -1,0 +1,11 @@
+Package: comparisort
+Title: What the package does
+Version: 0.1
+Date: 2017-08-11
+Author: Who wrote it
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Imports: magrittr
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.0.1
